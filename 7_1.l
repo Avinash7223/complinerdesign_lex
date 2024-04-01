@@ -18,5 +18,5 @@ int main()
 {
 printf("\nEnter text: ");
 yylex();
-printf("\n The no. of chars you typed : %d", count);
+printf("\n The no. of chars you typed : %d\n", count);
 }
