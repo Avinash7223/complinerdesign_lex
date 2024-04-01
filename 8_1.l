@@ -2,6 +2,7 @@
 
 8_1)write a program or lex specification to checknwhether given string is indetifier or  constant or keyword 
 
+*/
 
 %{
 #include <stdio.h>
